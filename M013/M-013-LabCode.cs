@@ -1,6 +1,6 @@
 using System;
 
-namespace Lab12_ExcpetionHandling
+namespace Lab13_ExceptionHandling
 {
     public enum Rechenoperation { Addition = 1, Subtraktion, Multiplikation, Division }
 
